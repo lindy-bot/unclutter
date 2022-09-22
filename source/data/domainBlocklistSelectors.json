@@ -214,6 +214,7 @@
         ".getsocial",
         "[id*='like-post-wrapper-']"
     ],
+    "sueddeutsche.de": [".css-wlr69t"],
     "tarjomaan.com": ["#head_div1", "#header"],
     "technologyreview.com": [
         "#piano__post_body-desktop-1",
